@@ -1,2 +1,5 @@
-print("hello")
-print(" welcome to new git")
+#Variables
+
+x = 4
+y = "Sally"
+print(x , y)
